@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Htoo Eain Lin from Myanmar.<br><br>- 🔭 I’m working as a cloud support engineer.<br>- 📚 I'm currently learning vibe coding.</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as a cloud support engineer.<br>- 📚 I'm currently learning vibe coding.</p>
 
 ###
 
@@ -75,13 +75,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hnhcloud&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnhcloud/hnhcloud/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hnhcloud/hnhcloud/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hnhcloud/hnhcloud/output/pacman-contribution-graph.svg">
-</picture>
-
-###
